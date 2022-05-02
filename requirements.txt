@@ -3,4 +3,4 @@ sklearn
 xgboost
 numpy
 joblib
-panadas
+pandas
